@@ -36,8 +36,8 @@
 **① 可穿戴抓取机器人视觉系统** `负责人`
 YOLOv5-s 迁移学习 mAP@0.5 **96.3%**；INT8 量化后模型体积压缩 **65%**、推理提速 **40%**；在 RK3588 边缘端实现 **30FPS** 实时检测。
 
-<!-- 在下面这行拖入此项目的 GIF（拖入后删除本注释行和示例图） -->
-<img src="https://dummyimage.com/600x340/eeeeee/999999&text=Drag+GIF+Here" width="600" alt="项目一演示">
+<img width="834" height="640" alt="叶问蹲正面" src="https://github.com/user-attachments/assets/09e56b54-55b7-43b9-a05e-242f282f57bc" />
+
 
 **② 仿人机器人 18 自由度运动控制** `负责人`
 完成 **356 秒**动作序列编排，调试侧滚翻等强动力学耦合动作。
