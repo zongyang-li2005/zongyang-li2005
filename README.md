@@ -36,14 +36,12 @@
 **① 可穿戴抓取机器人视觉系统** `负责人`
 YOLOv5-s 迁移学习 mAP@0.5 **96.3%**；INT8 量化后模型体积压缩 **65%**、推理提速 **40%**；在 RK3588 边缘端实现 **30FPS** 实时检测。
 
-<img width="834" height="640" alt="叶问蹲正面" src="https://github.com/user-attachments/assets/09e56b54-55b7-43b9-a05e-242f282f57bc" />
-
-
 **② 仿人机器人 18 自由度运动控制** `负责人`
 完成 **356 秒**动作序列编排，调试侧滚翻等强动力学耦合动作。
+| 叶问蹲 · 正面 | 叶问蹲 · 侧面 | 侧滚翻 |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/09e56b54-55b7-43b9-a05e-242f282f57bc" width="280" height="215" alt="叶问蹲正面" /> | <img src="https://github.com/user-attachments/assets/2f141c19-fb0e-4eaa-8feb-1b682a3ca304" width="280" height="211" alt="叶问蹲侧面" /> | <img src="https://github.com/user-attachments/assets/1272e891-b3f9-404f-8c14-34549dae0dd7" width="280" height="158" alt="侧滚翻" /> |
 
-<!-- 在下面这行拖入此项目的 GIF（拖入后删除本注释行和示例图） -->
-<img src="https://dummyimage.com/600x340/eeeeee/999999&text=Drag+GIF+Here" width="600" alt="项目二演示">
 
 **③ 球形巡检机器人** `负责人`
 STM32 + TB6612FNG 驱动，12V/5V/3.3V 分级供电 + PWM 运动控制。
@@ -56,5 +54,4 @@ GLM-4V + 讯飞 ASR + GLM-4 异步链路集成，实现秒级响应的场景理�
 
 ### 📮 联系方式
 
-邮箱：（填你的邮箱） · 可实习时间：**2026.10 起，每周 5 天，可持续 6 个月**<img width="834" height="640" alt="叶问蹲正面" src="https://github.com/user-attachments/assets/142a651e-9ddc-4e18-a005-da6d00a5fa61" />
-<img width="834" height="640" alt="叶问蹲正面" src="https://github.com/user-attachments/assets/1f9de73e-61d8-400e-9e5e-fa5e8e79fcc3" />
+邮箱：（填你的邮箱） · 可实习时间：**2026.10 起，每周 5 天，可持续 6 个月**
