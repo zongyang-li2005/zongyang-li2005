@@ -1,16 +1,23 @@
-## Hi there 👋
+# 李宗泱 (Li Zongyang)
 
-<!--
-**zongyang-li2005/zongyang-li2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+机器人方向在读本科生 · 保研至武汉理工大学机电学院（2027 入学）
 
-Here are some ideas to get you started:
+- 🔭 方向：机器人运动控制 · 嵌入式 AI · 机器视觉
+- 🎓 教育：重庆邮电大学 集成电路学院 智能化设计与制造实验班（2023.09–2027.06），专业排名 5/97（前 5.2%），国家励志奖学金
+- 🏆 获奖：中国机器人及人工智能大赛全国总决赛二等奖（连续 2 届重庆赛区一等奖·第一名）；重庆市 AI 大模型创新应用大赛一等奖（285 支队伍第 1 名）；国家级奖项 7 项、省部级 9 项
+- 🛠 技能：Python / C / MATLAB，SolidWorks 建模，STM32 嵌入式开发，YOLOv5 训练与边缘部署（RK3588），ROS2 学习中
+- 💼 实习：2026.10 起可全职实习（每周 5 天，可持续 6 个月）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 项目
+
+**可穿戴抓取机器人视觉系统**（负责人）— YOLOv5-s 迁移学习 mAP@0.5 达 96.3%，INT8 量化后模型体积压缩 65%、推理提速 40%，在 RK3588 上实现 30FPS 实时检测。
+
+**仿人机器人运动控制**（负责人）— 18 自由度运动控制，完成 356 秒动作序列编排与侧滚翻等强动力学耦合动作调试。
+
+**球形巡检机器人**（负责人）— STM32 + TB6612FNG 驱动，12V/5V/3.3V 分级供电与 PWM 运动控制。
+
+**视障会议多模态助手**（负责人）— GLM-4V + 讯飞 ASR + GLM-4 异步链路集成，实现秒级响应的场景理解与提醒。
+
+## 联系方式
+
+邮箱：lizongyang——2027@163.com
